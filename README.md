@@ -10,3 +10,7 @@ Abordar de forma criativa o ensinamento de tecnologia para as pessoas serem enga
 
 Meu pensamento é colocar o quanto antes assuntos diversos referente a conteudos que abordamos, como Jenkins ( Groovy ), Azure, Azure Devops, Linux e entre outros.
 
+## Contato
+
+E-mail: motociclistanerd@gmail.com
+Instagram: @motociclistanerd
